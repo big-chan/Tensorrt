@@ -1,7 +1,13 @@
 # Tensorrt
 
 ## For record 
+
+### Document
+
+-[link](https://docs.nvidia.com/deeplearning/sdk/tensorrt-archived/tensorrt_210/tensorrt-user-guide/index.html)
+
 ### Python
+
 - Prepare model (pytorch->onnx) [code]()
   -  ceil_mode = True and pow method make bugs on pytorch->onnx
 
